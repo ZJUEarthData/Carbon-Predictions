@@ -1,1 +1,1 @@
-# -Carbon-Predictions-
+# Carbon-Predictions
